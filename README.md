@@ -8,9 +8,9 @@ On permissions tab allow following:
   - file metadata read and write
   - file content read and write
   - file requests read and write
-Submit the changes and generate a Token on the settings tab
-Copy paste the Token into the script next to variable labeled "TOKEN" above main 
-Add the local path for your folder in the script above main function
+  - Submit the changes and generate a Token on the settings tab
+  - Copy paste the Token into the script next to variable labeled "TOKEN" above main 
+  - Add the local path for your folder in the script above main function
 
 ## Application menu functions
 1. Backup local files
